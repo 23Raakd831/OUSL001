@@ -1,1 +1,2 @@
-create hello.py
+# hello.py - A simple Python script
+print("Hello, world!")
